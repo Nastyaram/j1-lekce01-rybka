@@ -41,6 +41,9 @@ public class RybkaApplication extends CzechitasGameApplication {
         rybka.plavatVpravo();
         rybka.plavatVpravo();
         rybka.plavatVpravo();
+        rybka.plavatVpravo();
+        rybka.plavatVpravo();
+
     }
 
     public static void main(String[] args) {
